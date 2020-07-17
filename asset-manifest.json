@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/easypaisa/static/css/main.06e9ee86.chunk.css",
+    "main.js": "/easypaisa/static/js/main.e89a25c9.chunk.js",
+    "main.js.map": "/easypaisa/static/js/main.e89a25c9.chunk.js.map",
+    "runtime-main.js": "/easypaisa/static/js/runtime-main.fe4e72f5.js",
+    "runtime-main.js.map": "/easypaisa/static/js/runtime-main.fe4e72f5.js.map",
+    "static/css/2.09d1976d.chunk.css": "/easypaisa/static/css/2.09d1976d.chunk.css",
+    "static/js/2.035aca38.chunk.js": "/easypaisa/static/js/2.035aca38.chunk.js",
+    "static/js/2.035aca38.chunk.js.map": "/easypaisa/static/js/2.035aca38.chunk.js.map",
+    "index.html": "/easypaisa/index.html",
+    "precache-manifest.fd3d563770b0b42d310056ff00c81130.js": "/easypaisa/precache-manifest.fd3d563770b0b42d310056ff00c81130.js",
+    "service-worker.js": "/easypaisa/service-worker.js",
+    "static/css/2.09d1976d.chunk.css.map": "/easypaisa/static/css/2.09d1976d.chunk.css.map",
+    "static/css/main.06e9ee86.chunk.css.map": "/easypaisa/static/css/main.06e9ee86.chunk.css.map",
+    "static/js/2.035aca38.chunk.js.LICENSE.txt": "/easypaisa/static/js/2.035aca38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe4e72f5.js",
+    "static/css/2.09d1976d.chunk.css",
+    "static/js/2.035aca38.chunk.js",
+    "static/css/main.06e9ee86.chunk.css",
+    "static/js/main.e89a25c9.chunk.js"
+  ]
+}
