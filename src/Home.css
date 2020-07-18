@@ -1,0 +1,299 @@
+.contain{
+    
+    /* padding-top: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 50px; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left:10% ;
+    margin-right: 10%;
+    text-align: center;
+
+}
+@media screen and (max-width: 990px){
+    .contain{
+font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+font-size: 20px;
+    }
+    .con{
+        text-align: center;
+        padding: 20px;
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 20px;
+    }
+.img img{
+    width: 80%;
+    height: auto;
+    margin-left:10% ;
+}
+}
+.con{
+    text-align: center;
+    padding: 20px;
+}
+/* .home{
+    
+      width: 1000px;
+    height: 600px;  
+} */
+.sec{
+    border: gray 1px solid;
+    box-shadow: 2px 2px 20px #000000;
+    border-radius: 20px;
+    padding: 50px;
+    height: 300px;
+    width: 45%;
+    float: left;
+    margin-left: 3%;
+    margin-right: 2%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+@media screen and (max-width: 990px){
+    .sec{
+        border: gray 1px solid;
+        box-shadow: 2px 2px 20px #000000;
+        border-radius: 20px;
+        padding: 20px;
+        height: 280px;
+        width: 100%;
+        float: left;
+        margin-left: 3%;
+        margin-right: 2%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+        
+    }  
+    .sec h2{
+        font-size: 22px;
+        font-family: Arial, Helvetica, sans-serif;
+    } 
+    .sec p{
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+    } 
+
+    .pad a{
+        text-decoration: none;
+        color: black;
+    }
+    .pad div:hover{
+        background-color: rgb(5, 172, 47);
+        text-decoration: none;
+        color: black;
+        transition: 0.5s;
+    }
+
+    
+}
+
+@media screen and (max-width: 308px){
+    .sec h2{
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+    } 
+    .sec p{
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+    } 
+} 
+@media screen and (max-width: 205px){
+    .sec h2{
+        font-size: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+    } 
+    .sec p{
+        font-size: 8px;
+        font-family: Arial, Helvetica, sans-serif;
+    } 
+} 
+@media screen and (max-width: 124px){
+    .sec h2{
+        font-size: 8px;
+        font-family: Arial, Helvetica, sans-serif;
+    } 
+    .sec p{
+        font-size: 4px;
+        font-family: Arial, Helvetica, sans-serif;
+    } 
+} 
+
+/* .pad{
+    padding-bottom: 50px;
+    
+    
+} */
+
+.pad a{
+    text-decoration: none;
+    color: black;
+}
+.pad div:hover{
+    background-color: rgb(5, 172, 47);
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+.section{
+    margin-top: 60px;
+}
+
+.promm{
+    display: flex;
+    text-align: center;
+    margin-top: 40px;
+   
+    
+}
+/* .promm::after{
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.6);
+} */
+
+
+.prom1{
+    width: 30%;
+    height: 280px;
+    display: flex;
+    border: gray 1px solid;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: space-between;
+    background-image:url('/img/pro1.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+    
+}
+
+
+
+.prom1::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: block;
+    
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.6);
+
+}
+
+/* .prom11:hover {
+   
+   
+    background-color: rgba(223, 25, 41, 0.8);
+    
+    transition: 0.5s;
+
+
+
+} */
+
+.prom2{
+    width: 30%;
+    height: 280px;
+    display: flex;
+    border: gray 1px solid;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: space-between;
+    background-image:url('/img/pro2.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.prom2::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: block;
+    
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.6);
+
+}
+
+.prom3{
+    width: 30%;
+    height: 280px;
+    display: flex;
+    border: gray 1px solid;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: space-between;
+    background-image:url('/img/pro3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.prom3::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: block;
+    
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background: rgba(0, 0, 0, 0.6);
+
+}
+
+.prom1 h3, .prom2 h3, .prom3 h3{
+    color: white;
+    position: relative;
+    font-size: 2em;
+    z-index: 2;
+    margin: auto;
+    flex-direction: column;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    
+
+}
+
+@media screen and (max-width: 990px){
+    .promm{
+        width: 100%;
+        display: block;
+    }
+     .prom1{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .prom2{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .prom3{
+        width: 100%;
+    } 
+
+}
+
