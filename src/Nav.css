@@ -61,11 +61,24 @@ height: 25px;
 
 .naved{
      /* argin-left: 20%;  */
-     width: 50%;
+     width: 40%;
      
-     margin-left: auto;
+     margin-left: 12%;
      margin-right: auto;
+    text-decoration: none;
+    
+     justify-content: space-between;
 }
+.naved a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.naved a:hover {
+    text-decoration: underline;
+}
+
+
 .navedd [type="text"]{
     width: 85%;
     height: 50px;

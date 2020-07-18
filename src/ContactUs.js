@@ -1,6 +1,6 @@
 import React from 'react'
 import './AboutUs.css'
-
+import bg from './img/bg.jpg'
 
 
 const ContactUs = () => {
@@ -9,7 +9,7 @@ const ContactUs = () => {
         <div>
             <div className="image"> 
          
-         <img src="/img/bg.jpg" alt="imag"></img>
+         <img src={bg} alt="imag"></img>
          <a name="top"></a>
      </div >
 

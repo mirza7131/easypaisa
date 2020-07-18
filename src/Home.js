@@ -3,7 +3,12 @@ import './Home.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCoffee, faSpinner, faMobile, faMobileAlt, faMoneyCheck, faMoneyBillWave, faHandSparkles, faSatellite } from '@fortawesome/free-solid-svg-icons';
-import CarouselCon from './CarouselCon'
+import CarouselCon from './CarouselCon';
+import a1 from './img/a1.png'
+import a2 from './img/a2.png'
+import a3 from './img/a3.png'
+import pro1 from './img/pro1.jpeg'
+
 
 
 const Home = () => {
@@ -19,20 +24,20 @@ through innovative, simple & seamless payments</h1>
 
         <img
           className="col-md-4 col-lg-4"
-          src="/img/a1.png"
+          src={a1}
           alt="First slide"
         />
         
         
         <img
           className="col-md-4 col-lg-4"
-          src="/img/a2.png"
+          src={a2}
           alt="First slide"
         />
         
         <img
           className="col-md-4 col-lg-4"
-          src="/img/a3.png"
+          src={a3}
           alt="First slide"
         />
             

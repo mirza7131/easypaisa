@@ -13,6 +13,7 @@ import {
   import "./Nav.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faSearch,  } from '@fortawesome/free-solid-svg-icons';
+import log from './img/log.png'
   
 
 class BootstrapNavbar extends React.Component{
@@ -26,13 +27,13 @@ class BootstrapNavbar extends React.Component{
                        
                         <Router>
                             <Navbar className="Navbarr" bg="light" variant="light"  expand="lg" sticky="top">
-                                <Navbar.Brand href="#home"><img src="/img/log.png" className="log" alt="loog"></img></Navbar.Brand>
+                                <Navbar.Brand href="#home"><img src={log} className="log" alt="loog"></img></Navbar.Brand>
                                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                                 <Navbar.Collapse className="coll"  id="basic-navbar-nav">
                                     <Nav className="naved">
-                                    <Nav.Link className="" href="/">Home</Nav.Link>
-                                    <Nav.Link href="/contact-us/#top">Contact Us</Nav.Link>
-                                    <Nav.Link href="/about-us/#top">About Us</Nav.Link>
+                                    <Link className="" to="/">Home</Link>
+                                    <Link to="/contact-us/#top">Contact Us</Link>
+                                    <Link to="/about-us/#top">About Us</Link>
                                     {/* <NavDropdown title="More" id="basic-nav-dropdown">
                                         <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                                         <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>

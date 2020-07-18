@@ -2,7 +2,11 @@ import React from 'react';
 import "bootstrap/dist/css/bootstrap.css";
 import Carousel from 'react-bootstrap/Carousel';
 import './CarouselCon.css'
-//import './img';
+import cc from './img/cc.png';
+import bb from './img/bb.jpg';
+import aa from './img/aa.jpg';
+
+
 
 function CarouselCon() {
   const [index, setIndex] = React.useState(0);
@@ -15,8 +19,8 @@ function CarouselCon() {
     <Carousel activeIndex={index} onSelect={handleSelect} className="Caro">
       <Carousel.Item>
         <img
-          className="d-block w-100 h-25"
-          src="/img/cc.png"
+          className="d-block "
+          src={cc}
           alt="First slide"
         />
         <Carousel.Caption>
@@ -27,7 +31,7 @@ function CarouselCon() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="/img/bb.jpg"
+          src={bb}
           alt="Second slide"
         />
 
@@ -39,7 +43,7 @@ function CarouselCon() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="/img/aa.jpg"
+          src={aa}
           alt="Third slide"
         />
 

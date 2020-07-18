@@ -1,6 +1,6 @@
 import React from 'react';
 import './AboutUs.css';
-
+import about from './img/about.jpg'
 
 
 const AboutUs = () => {
@@ -10,11 +10,12 @@ const AboutUs = () => {
             
           <div className="image"> 
          
-              <img src="/img/about.jpg" alt="imag"></img>
-              <a name="top"></a>
+              <img src={about} alt="imag"></img>
+              
           </div >
           
           <div className="about">
+          <span id="top"></span>
           
           <h1 onFocus>About Us</h1>
           
