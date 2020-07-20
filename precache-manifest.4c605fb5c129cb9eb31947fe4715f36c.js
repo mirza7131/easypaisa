@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60030a46366b43d0088694429f26052a",
+    "revision": "dc336b43eca1c6e59e3e014c03160d5a",
     "url": "/easypaisa/index.html"
   },
   {
-    "revision": "1ddfdb238b00c6300b56",
+    "revision": "dcd05b31ad83cdc87817",
     "url": "/easypaisa/static/css/2.db6f3515.chunk.css"
   },
   {
-    "revision": "3e91b6bebf8d7bc43773",
-    "url": "/easypaisa/static/css/main.e723a9b1.chunk.css"
+    "revision": "e55470607a7802de2976",
+    "url": "/easypaisa/static/css/main.a746081a.chunk.css"
   },
   {
-    "revision": "1ddfdb238b00c6300b56",
-    "url": "/easypaisa/static/js/2.1c9ae3e8.chunk.js"
+    "revision": "dcd05b31ad83cdc87817",
+    "url": "/easypaisa/static/js/2.c2ae0375.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/easypaisa/static/js/2.1c9ae3e8.chunk.js.LICENSE.txt"
+    "url": "/easypaisa/static/js/2.c2ae0375.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e91b6bebf8d7bc43773",
-    "url": "/easypaisa/static/js/main.b7becbd8.chunk.js"
+    "revision": "e55470607a7802de2976",
+    "url": "/easypaisa/static/js/main.ac7241a4.chunk.js"
   },
   {
     "revision": "90f6e28ecae99a757bbf",

@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/easypaisa/static/css/main.e723a9b1.chunk.css",
-    "main.js": "/easypaisa/static/js/main.b7becbd8.chunk.js",
-    "main.js.map": "/easypaisa/static/js/main.b7becbd8.chunk.js.map",
+    "main.css": "/easypaisa/static/css/main.a746081a.chunk.css",
+    "main.js": "/easypaisa/static/js/main.ac7241a4.chunk.js",
+    "main.js.map": "/easypaisa/static/js/main.ac7241a4.chunk.js.map",
     "runtime-main.js": "/easypaisa/static/js/runtime-main.fe4e72f5.js",
     "runtime-main.js.map": "/easypaisa/static/js/runtime-main.fe4e72f5.js.map",
     "static/css/2.db6f3515.chunk.css": "/easypaisa/static/css/2.db6f3515.chunk.css",
-    "static/js/2.1c9ae3e8.chunk.js": "/easypaisa/static/js/2.1c9ae3e8.chunk.js",
-    "static/js/2.1c9ae3e8.chunk.js.map": "/easypaisa/static/js/2.1c9ae3e8.chunk.js.map",
+    "static/js/2.c2ae0375.chunk.js": "/easypaisa/static/js/2.c2ae0375.chunk.js",
+    "static/js/2.c2ae0375.chunk.js.map": "/easypaisa/static/js/2.c2ae0375.chunk.js.map",
     "index.html": "/easypaisa/index.html",
-    "precache-manifest.7097558021a0d305d9ed3a8298bce3e2.js": "/easypaisa/precache-manifest.7097558021a0d305d9ed3a8298bce3e2.js",
+    "precache-manifest.4c605fb5c129cb9eb31947fe4715f36c.js": "/easypaisa/precache-manifest.4c605fb5c129cb9eb31947fe4715f36c.js",
     "service-worker.js": "/easypaisa/service-worker.js",
     "static/css/2.db6f3515.chunk.css.map": "/easypaisa/static/css/2.db6f3515.chunk.css.map",
-    "static/css/main.e723a9b1.chunk.css.map": "/easypaisa/static/css/main.e723a9b1.chunk.css.map",
-    "static/js/2.1c9ae3e8.chunk.js.LICENSE.txt": "/easypaisa/static/js/2.1c9ae3e8.chunk.js.LICENSE.txt",
+    "static/css/main.a746081a.chunk.css.map": "/easypaisa/static/css/main.a746081a.chunk.css.map",
+    "static/js/2.c2ae0375.chunk.js.LICENSE.txt": "/easypaisa/static/js/2.c2ae0375.chunk.js.LICENSE.txt",
     "static/media/a1.png": "/easypaisa/static/media/a1.bc1f5e0c.png",
     "static/media/a2.png": "/easypaisa/static/media/a2.26530719.png",
     "static/media/a3.png": "/easypaisa/static/media/a3.6281c199.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.fe4e72f5.js",
     "static/css/2.db6f3515.chunk.css",
-    "static/js/2.1c9ae3e8.chunk.js",
-    "static/css/main.e723a9b1.chunk.css",
-    "static/js/main.b7becbd8.chunk.js"
+    "static/js/2.c2ae0375.chunk.js",
+    "static/css/main.a746081a.chunk.css",
+    "static/js/main.ac7241a4.chunk.js"
   ]
 }
