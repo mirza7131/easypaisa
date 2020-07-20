@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d6a519e031ed63db91ab39e14c09c443",
+    "revision": "4e7783b5d9b18e8283940b071d1a29b2",
     "url": "/easypaisa/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/easypaisa/static/css/2.db6f3515.chunk.css"
   },
   {
-    "revision": "92167924a32333e179c4",
+    "revision": "4d704cddae7780b7614b",
     "url": "/easypaisa/static/css/main.a746081a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/easypaisa/static/js/2.c2ae0375.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "92167924a32333e179c4",
-    "url": "/easypaisa/static/js/main.df0af38a.chunk.js"
+    "revision": "4d704cddae7780b7614b",
+    "url": "/easypaisa/static/js/main.dd04a17c.chunk.js"
   },
   {
     "revision": "90f6e28ecae99a757bbf",

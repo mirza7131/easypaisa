@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/easypaisa/static/css/main.a746081a.chunk.css",
-    "main.js": "/easypaisa/static/js/main.df0af38a.chunk.js",
-    "main.js.map": "/easypaisa/static/js/main.df0af38a.chunk.js.map",
+    "main.js": "/easypaisa/static/js/main.dd04a17c.chunk.js",
+    "main.js.map": "/easypaisa/static/js/main.dd04a17c.chunk.js.map",
     "runtime-main.js": "/easypaisa/static/js/runtime-main.fe4e72f5.js",
     "runtime-main.js.map": "/easypaisa/static/js/runtime-main.fe4e72f5.js.map",
     "static/css/2.db6f3515.chunk.css": "/easypaisa/static/css/2.db6f3515.chunk.css",
     "static/js/2.c2ae0375.chunk.js": "/easypaisa/static/js/2.c2ae0375.chunk.js",
     "static/js/2.c2ae0375.chunk.js.map": "/easypaisa/static/js/2.c2ae0375.chunk.js.map",
     "index.html": "/easypaisa/index.html",
-    "precache-manifest.1dcade30cd85015a62966a36b21e8318.js": "/easypaisa/precache-manifest.1dcade30cd85015a62966a36b21e8318.js",
+    "precache-manifest.2cefc55aab1ca6b8bd9481dccda85408.js": "/easypaisa/precache-manifest.2cefc55aab1ca6b8bd9481dccda85408.js",
     "service-worker.js": "/easypaisa/service-worker.js",
     "static/css/2.db6f3515.chunk.css.map": "/easypaisa/static/css/2.db6f3515.chunk.css.map",
     "static/css/main.a746081a.chunk.css.map": "/easypaisa/static/css/main.a746081a.chunk.css.map",
@@ -30,6 +30,6 @@
     "static/css/2.db6f3515.chunk.css",
     "static/js/2.c2ae0375.chunk.js",
     "static/css/main.a746081a.chunk.css",
-    "static/js/main.df0af38a.chunk.js"
+    "static/js/main.dd04a17c.chunk.js"
   ]
 }
