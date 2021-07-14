@@ -14,6 +14,15 @@ import pro1 from './img/pro1.jpeg'
 const Home = () => {
     return(
         <div >
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-202239054-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-202239054-2');
+</script>
             <CarouselCon/>
             <h1 className="contain">
 Download the Easypaisa App to experience ease
